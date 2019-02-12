@@ -122,3 +122,5 @@ Add the a11y-media-player to the entry file
 import "@lrnwebcomponents/a11y-media-player/a11y-media-player.js"
   </template>
 </code-sample>
+
+to be continued....
