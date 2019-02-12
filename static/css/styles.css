@@ -1,0 +1,5 @@
+code-sample {
+  text-align: left;
+  width: calc(50vw + 50%);
+  transform: translateX(calc(50% - 50vw));
+}
