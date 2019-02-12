@@ -1,5 +1,3 @@
-import serve from 'rollup-plugin-serve'
-import copy from 'rollup-plugin-copy'
 import resolve from 'rollup-plugin-node-resolve'
 import filesize from 'rollup-plugin-filesize';
 import {terser} from 'rollup-plugin-terser';
