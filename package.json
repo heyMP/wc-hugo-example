@@ -1,0 +1,11 @@
+{
+  "name": "liquid-chromatography",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "heyMP <mgp140@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@lrnwebcomponents/a11y-media-player": "^2.0.4",
+    "@webcomponents/webcomponentsjs": "^2.2.7"
+  }
+}
