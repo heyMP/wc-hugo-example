@@ -24,8 +24,6 @@ Usage:
 
 
 
-# wc-hugo-example
-
 This is meant to be a playground for adding web components to Hugo.
 
 ## Live Preview
